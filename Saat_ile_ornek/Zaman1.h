@@ -1,9 +1,6 @@
-//
-// Created by sk8 on 01.05.2022.
-//
 
-#ifndef UNTITLED3_ZAMAN1_H
-#define UNTITLED3_ZAMAN1_H
+#ifndef Saat_ZAMAN1_H
+#define Saat_ZAMAN1_H
 
 class Zaman{
 public:
@@ -19,4 +16,4 @@ private:
 };
 
 
-#endif //UNTITLED3_ZAMAN1_H
+#endif //Saat_ZAMAN1_H
