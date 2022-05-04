@@ -1,0 +1,19 @@
+/snap/clion/189/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/sk8/Documents/CLionProjects/untitled3 -B /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug
+-- Configuring done
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/build.make.tmpf9f4d
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/compiler_depend.make.tmp403a7
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/depend.make.tmp5721e
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/flags.make.tmpc0470
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/link.txt.tmp21b29
+CMake Error: : System Error: Permission denied
+CMake Error: Could not create /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/cmake_clean.cmake
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/DependInfo.cmake.tmp8c9da
+CMake Error: : System Error: Permission denied
+-- Generating done
+CMake Error: Cannot open file for write: /home/sk8/Documents/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/untitled3.dir/progress.make.tmpaa7f3
+CMake Error: : System Error: Permission denied
+CMake Generate step failed.  Build files cannot be regenerated correctly.
